@@ -1,0 +1,1 @@
+web: java -jar build/libs/dio-rest-api-spring-0.0.1-SNAPSHOT.jar
